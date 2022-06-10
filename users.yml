@@ -1,0 +1,4 @@
+- username: test
+  password: $2y$10$Mi114bTwNEu5U9QZZvn39ez3Px/4vojrNhP4WnQLs1IF5L.z9LeAe
+  # encrypted: 123456
+  role: admin
