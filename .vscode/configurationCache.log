@@ -1,1 +1,0 @@
-{"buildTargets":["build-binaries","install-deps","install-linter","linter","make","testing"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
