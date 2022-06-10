@@ -16,3 +16,6 @@ lint:
 
 test:
 	go test -covermode=count -coverprofile=count.out ./...
+
+build:
+	$(LINUX_AMD64) go build -o iris-framework main.go
